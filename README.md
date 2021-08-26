@@ -12,16 +12,16 @@
 ```kotlin
 Class Felipejaci 
 {
- string name = "Felipe Andrei Jacinto";
- string acknowledgements = "Programador novato";
+  string name = "Felipe Andrei Jacinto";
+  string acknowledgements = "Programador novato";
  
- string[] primarySkillset = "Trabalho em equipe, Comunicação";
- List<string> languages = ("Java", "C#"); 
+  string[] primarySkillset = "Trabalho em equipe, Comunicação";
+  List<string> languages = ("Java", "C#"); 
  
- while(true)
-{
-  Console.WhiteLine("Me Contrata!")
-}
+  while(true)
+  {
+    Console.WhiteLine("Me Contrata!")
+  }
 }
 ```
  
