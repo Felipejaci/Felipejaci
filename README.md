@@ -10,13 +10,13 @@
  <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **Felipejaci** {
- val name = "Felipe Andrei Jacinto"
- val acknowledgements = "Programador novato"
+Class **Felipejaci** 
+{
+ string name = "Felipe Andrei Jacinto";
+ string acknowledgements = "Programador novato";
  
- val primarySkillset = "Trabalho em equipe, Comunicação"
- val languages = listOf("Java", "C#") 
-
+ string[] primarySkillset = "Trabalho em equipe, Comunicação";
+ List<string> languages = listOf("Java", "C#"); 
 }
 ```
  
