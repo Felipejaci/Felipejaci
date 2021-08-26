@@ -16,19 +16,6 @@ Class Felipejaci
  
   string[] primarySkillset = "Trabalho em equipe, Comunicação";
   List<string> languages = ("Java", "C#"); 
- 
-  while(true)
-  {
-    if(contratado == false)
-    {
-      Console.WhiteLine("Procuro emprego")
-    }
-    else if(contratado == true)
-    {
-      Console.WhiteLine("Obrigado")
-      break;
-    }
-  }
 }
 ```
  
