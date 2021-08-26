@@ -2,7 +2,7 @@
 
 
 
-//Estudando no momento!
+//Studying at the moment!
   
 //C# Entra21 Blusoft!
  
@@ -14,7 +14,7 @@ Class Felipejaci
   string name = "Felipe Andrei Jacinto";
   string acknowledgements = "Programador novato";
  
-  string[] primarySkillset = "Trabalho em equipe, Comunicação";
+  string[] primarySkillset = "Team work, Comunication";
   List<string> languages = ("Java", "C#"); 
 }
 ```
