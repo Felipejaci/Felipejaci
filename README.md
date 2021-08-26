@@ -19,7 +19,15 @@ Class Felipejaci
  
   while(true)
   {
-    Console.WhiteLine("Me Contrata!")
+    if(contratado == false)
+    {
+      Console.WhiteLine("Procuro emprego")
+    }
+    else if(contratado == true)
+    {
+      Console.WhiteLine("Obrigado")
+      break;
+    }
   }
 }
 ```
