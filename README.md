@@ -16,7 +16,12 @@ Class Felipejaci
  string acknowledgements = "Programador novato";
  
  string[] primarySkillset = "Trabalho em equipe, Comunicação";
- List<string> languages = listOf("Java", "C#"); 
+ List<string> languages = ("Java", "C#"); 
+ 
+ while(true)
+{
+  Console.WhiteLine("Me Contrata!")
+}
 }
 ```
  
