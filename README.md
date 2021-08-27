@@ -15,7 +15,7 @@ Class Felipejaci
   string acknowledgements = "Programador novato";
  
   string[] primarySkillset = "Team work, Comunication";
-  List<string> languages = ("Java", "C#"); 
+  List<string> languages = ("C#"); 
 }
 ```
  
@@ -27,7 +27,6 @@ Class Felipejaci
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Felipe-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   
   </div>
   
