@@ -25,7 +25,8 @@ Class Felipejaci
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
-  <br/ >
+<div>
+  </div>
   <img align="center" alt="Csharp" height="30" width="150" src="https://komarev.com/ghpvc/?username=Felipejaci&color=orange" alt="Felipejaci" /> <br>
   </div>
   
