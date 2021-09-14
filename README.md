@@ -1,7 +1,5 @@
 ## Bem vindo ao meu Perfil ##
 
-
-
 //Studying at the moment!
   
 //C# Entra21 Blusoft!
@@ -18,11 +16,10 @@ Class Felipejaci
   List<string> languages = ("C#"); 
 }
 ```
- 
   <div>
   <a href="https://github.com/Felipejaci">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipejaci&show_icons=true&theme=orange&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipejaci&layout=compact&langs_count=7&theme=orange"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Felipejaci&show_icons=true&theme=orange&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipejaci&layout=compact&langs_count=7&theme=orange"/>
 </div>
  
 <div style="display: inline_block"><br>
@@ -33,7 +30,6 @@ Class Felipejaci
   
   ##
   
-
    ## Minhas redes👨‍💻 ##
   <div>   
   <a href="https://www.instagram.com/felipe_aja" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
